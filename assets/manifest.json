@@ -1,0 +1,17 @@
+{
+  "short_name": "TeraLudo",
+  "name": "TeraLudo",
+  "icons": [
+    {
+      "src": "images/d7031d9f4675ed7c73479a6490cb0ef8.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "https://teraludo.com",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#FFFFFF"
+}
